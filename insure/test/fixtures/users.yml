@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  aadhar_id: MyString
+  name: MyString
+  address: MyString
+  pincode: MyString
+  date_of_birth: 2015-06-06
+  mobile: MyString
+  email: MyString
+
+two:
+  aadhar_id: MyString
+  name: MyString
+  address: MyString
+  pincode: MyString
+  date_of_birth: 2015-06-06
+  mobile: MyString
+  email: MyString
