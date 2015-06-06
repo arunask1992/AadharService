@@ -43,4 +43,8 @@ group :development, :test do
   gem 'spring'
   gem 'httparty'
 end
+group :production do
+  gem 'pg'
+  gem 'thin'
+end
 
